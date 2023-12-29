@@ -18,7 +18,7 @@ namespace ExceptionHandling
                 //    var content = streamReader.ReadToEnd();
                 //}
                 var api = new YouTubeApi();
-                var videos = api.GetVideos("mosh");
+                var videos = api.GetVideos("mosh and fred");
                 
             }
             catch (Exception ex)
