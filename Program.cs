@@ -25,7 +25,6 @@ namespace ExceptionHandling
             {
                 //Console.WriteLine("Sorry, unexpected error occured.");
                 Console.WriteLine(ex.Message);
-                
                 Console.ReadLine();
             }
             
