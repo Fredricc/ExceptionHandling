@@ -12,5 +12,13 @@ namespace ExceptionHandling
         {
             return numerator / denominator;
         }
+        private int age;
+
+        public int Age
+        {
+            get { return age; }
+            set { age = value; }
+        }
+
     }
 }
