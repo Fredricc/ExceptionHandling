@@ -13,6 +13,7 @@ namespace ExceptionHandling
         {
             try
             {
+
                 //using (var streamReader = new StreamReader(@"c:\file.zip"))
                 //{
                 //    var content = streamReader.ReadToEnd();
